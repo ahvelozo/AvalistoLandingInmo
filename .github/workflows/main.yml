@@ -13,4 +13,4 @@ jobs:
       with:
         ftp-server: ftp://ftp.avalisto.net/
         ftp-username: javier@inmobiliarias.avalisto.net
-        ftp-password: ${{ secrets.FTP_PASSWORD }}
+        ftp-password: 4.4g@C70=?PL
